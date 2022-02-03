@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "a1cf99a7b34797df",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ea701e64f018b6f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Reflections/Miami Hack Week.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b52722d96cb50200",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0f08e8a0bda1641",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc4604f8ab443f81",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e4a0657f994e66de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bd9a6b837aebe6bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab156e27836659d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7ab765e17ab4968",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reflections/Miami Hack Week.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9ea701e64f018b6f",
+  "lastOpenFiles": [
+    "Reflections/Miami Hack Week.md",
+    "Library.md",
+    "Sources/The App Brewery.md",
+    "Sources/Harvard Business School Online.md"
+  ]
+}

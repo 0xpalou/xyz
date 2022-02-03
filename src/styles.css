@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100;200;300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&display=swap');
+
+#App {
+  @apply bg-dark text-paper font-mono;
+}
+
+#Navbar {
+  @apply px-4 text-right;
+}
+
+.upcoming {
+  @apply absolute p-4 mb-12  bottom-0 border-transparent text-paper cursor-pointer border-2;
+  transition: color 0s ease, border-color 0s ease;
+
+}
+
+.upcoming:hover {
+  @apply border-primary text-primary;
+  transition: color 2s ease, border-color 2s ease;
+}
+
+.upcoming:active {
+  @apply active:mb-0 active:top-0 active:left-0 active:text-16xl active:bg-tertiary text-paper border-transparent;
+  transition: color 0s, border-color 0s;
+}
+
+.nav-item {
+  @apply text-2xl cursor-pointer text-transparent p-4 my-4 border-2 border-transparent rounded-sm;
+  transition: color 2s ease, border-color 2s ease;
+}
+
+.nav-item:hover {
+ @apply border-primary text-primary;
+}
+
+.nav-item:active {
+  @apply border-tertiary text-tertiary;
+  transition: color 0s, border-color 0s;
+}
+
+*::-webkit-scrollbar {
+  display: none;
+}
+
+*.example {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
