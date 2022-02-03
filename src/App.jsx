@@ -17,7 +17,7 @@ function App() {
           //  Home
           //</div>
           }
-          <a className="nav-item" href="https://mirror.xyz/0xfB4A20f9c6D8562D1165e5f26F19a8E662046e4c">
+          <a className="nav-item" href="https://mirror.xyz/palou.eth">
             Journal
           </a>
         </div>
