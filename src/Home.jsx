@@ -11,13 +11,15 @@ function Home() {
     <div id="Home" className="px-40">
       <div className="relative inline-block">
         <h1 className="font-script text-16xl inline-block" >palou</h1>
-        <p className="font-script text-4xl absolute inline-block" style={signature}>just a kid tryna build something</p>
+        <p className="font-script text-4xl absolute inline-block" style={signature}>
+          <a href="https://mirror.xyz/palou.eth" class="hover:underline hover:text-primary">hitchhiking across the internet</a>
+        </p>
       </div>
       <p className="w-6/12 italic font-extralight p-2 rounded-md shadow-inner" style={{'min-width': '480px'}}>
-        The goal of this project is to prove that all one reasonably needs to be traditionally successful is will, perspective, and an internet connection.
+        Welcome to my corner of the internet! This is where all the artifcats and creations from my journey will live.
       </p>
       <p className="upcoming">
-        Upcoming: secrets
+        Upcoming: love letters
       </p>
     </div>
   )

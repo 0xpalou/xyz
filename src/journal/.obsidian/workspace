@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reflections/Miami Hack Week.md",
+            "file": "Reflections/Cookies.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reflections/Miami Hack Week.md",
+                "file": "Reflections/Cookies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,15 @@
   },
   "active": "9ea701e64f018b6f",
   "lastOpenFiles": [
-    "Reflections/Miami Hack Week.md",
-    "Library.md",
-    "Sources/The App Brewery.md",
-    "Sources/Harvard Business School Online.md"
+    "Reflections/Cookies.md",
+    "Reflections/Meditation on Celebration.md",
+    "Reflections/Things they don't tech you in school.md",
+    "Reflections/Storytime pt 0.md",
+    "Reflections/Meditation on Emotion.md",
+    "Reflections/Covid.md",
+    "Reflections/Meditation on Personal Independence.md",
+    "Reflections/Meditation on Value 1.md",
+    "Reflections/Cycles.md",
+    "Reflections/Finding a Path.md"
   ]
 }
