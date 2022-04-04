@@ -5,6 +5,7 @@ module.exports = {
       transparent: "transparent",
       dark: "#18181b",
       "dark-light": "#000437",
+      warm: "rgba(245, 245, 244, .6)",
       paper: "#F5F5F4",
       primary: "#6d28d9",
       secondary: "#d946ef",

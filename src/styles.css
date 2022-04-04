@@ -28,19 +28,24 @@
   transition: color 0s, border-color 0s;
 }
 
-.nav-item {
-  @apply text-2xl cursor-pointer text-transparent p-4 my-4 border-2 border-transparent rounded-sm;
+.activatable {
   transition: color 2s ease, border-color 2s ease;
 }
 
-.nav-item:hover {
- @apply border-primary text-primary;
+.activatable:hover {
+  @apply border-primary text-primary
 }
 
-.nav-item:active {
+.activatable:active {
   @apply border-tertiary text-tertiary;
   transition: color 0s, border-color 0s;
 }
+
+.nav-item {
+  @apply text-2xl cursor-pointer text-transparent p-4 my-4 border-2 border-transparent rounded-sm activatable;
+  transition: color 2s ease, border-color 2s ease;
+}
+
 
 *::-webkit-scrollbar {
   display: none;

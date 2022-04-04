@@ -6,7 +6,7 @@ function App() {
   return (
     <div id="App">
       <div className="flex flex-row flex-nowrap w-screen h-screen relative">
-        <div className="overflow-y-scroll flex-grow h-full">
+        <div className="overflow-y-scroll flex-1 h-full">
           <Routes>
             <Route path={process.env.PUBLIC_URL + '/'} element={<Home />}/>
           </Routes>
